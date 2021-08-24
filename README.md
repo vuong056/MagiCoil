@@ -10,7 +10,8 @@ The current EE design in regards to the "Magicoil" device consists of four eleme
 4) Instrumentation amplifier
 5) Voltage clipper
 6) Power (-5V, +5V)
-* Development software: Altium Ver 17.1
+
+Development software: Altium Ver 17.1
 
 ### PCB View
 ![](PCB.PNG)
