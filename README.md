@@ -11,7 +11,7 @@
 * Development software: Altium Ver 17.1
 
 ### PCB View
-
+![](3D_view.PNG)
 ### 3D view
 
 
