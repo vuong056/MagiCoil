@@ -1,6 +1,6 @@
 # MAGICOIL 
 
-The current EE design in regards to the "Magicoil" device consists of four elements: Power, Micro-controller, Signal Generation, and Lock-In/ADC. The Micro-controller is used to control signal generation, receive the return signal from the pick-up coils and communicate with external applications (Android App, PC). The lock-In amplier and instrumentation amplifier are for picking up that return signal, and can be modeled as a very tight band-pass filter followed by a very high gain amplier, and is typically used for applications where we are searching for very tiny signals (which is the goal here!).
+The current EE design in regards to the "Magicoil" device consists of four elements: Power, Micro-controller, Signal Generation, and Amplifier/ADC. The Micro-controller is used to control signal generation, receive the return signal from the pick-up coils and communicate with external applications (Android App, PC). The lock-In amplier and instrumentation amplifier are for picking up that return signal, and can be modeled as a very tight band-pass filter followed by a very high gain amplier, and is typically used for applications where we are searching for very tiny signals (which is the goal here!).
 
 ## Specification:
 
