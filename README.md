@@ -23,3 +23,4 @@ From MagiCoil Team at University of Minnesota - Twin Cities - https://magicoil.e
 
 Wang, J.-P.; Wu, K.; Vuong, H.; et al. Magnetic Particle Spectroscopy-Based Handheld Device for Wash-Free, 
 Easy-to-Use, and Solution-Phase Immunoassay Applications. DMD2020-9054, V001T10A011; 6 Apr. 202
+https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2020/83549/V001T10A011/1085710
